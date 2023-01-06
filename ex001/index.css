@@ -1,0 +1,9 @@
+nav{
+    display: flex;
+    align-items: center;
+}
+ul{
+    list-style-type: square;
+    display: flex;
+    gap: 30px;
+}
