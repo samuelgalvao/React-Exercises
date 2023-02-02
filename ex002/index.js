@@ -1,7 +1,13 @@
+import React from "react"
+import ReactDOM from "react-dom"
 
 const root = document.getElementById('root')
-const cont = (
-    <h1>Hello Word</h1>
+const page = (
+    <div>
+        <h1>Working!</h1>
+    </div>
 )
 
-ReactDOM.render(cont, root)
+console.log(ReactDOM)
+
+ReactDOM.render(page, root)

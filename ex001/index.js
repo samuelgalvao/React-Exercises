@@ -38,17 +38,16 @@ console.log(element)
 
 // NavBar
 
-function NavBar(){
-    return (
-        <nav>
-            <h1>ReactNews</h1>
-            <ul>
-                <li>Contact</li>
-                <li>About</li>
-                <li>News</li>
-            </ul>
-        </nav>
-    )
-}
-
-ReactDOM.render(<NavBar />, root)
+// function NavBar(){
+//     return (
+//         <nav>
+//             <h1>ReactNews</h1>
+//             <ul>
+//                 <li>Contact</li>
+//                 <li>About</li>
+//                 <li>News</li>
+//             </ul>
+//         </nav>
+//     )
+// }
+// ReactDOM.render(<NavBar />, root)
